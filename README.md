@@ -1,6 +1,6 @@
-# youtube
+# Youtube Video Player
 
-A new Flutter project.
+This App is developed using Youtube API V3. This app fetches all necessary data of users YouTube Channel and then displays it in screen.
 
 ## Getting Started
 
